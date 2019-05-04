@@ -19,7 +19,7 @@ email: anthony.crumley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Thoughts about God and living in His kingdom.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.anthonycrumley.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-139201696-1
 minima:
     social_links:
