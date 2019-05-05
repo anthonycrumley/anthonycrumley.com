@@ -26,6 +26,8 @@ minima:
       twitter: anthonycrumley
       github: anthonycrumley
       facebook: anthony.crumley
+disqus:
+  shortname: anthonybcrumley
 show_excerpts: true
 
 # Build settings
