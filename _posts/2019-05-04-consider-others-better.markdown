@@ -7,7 +7,10 @@ description:
   we are better than others. The United States of America's Declaration of Independence
   states "We hold these truths to be self-evident, that all men are created equal".
   Yet, God expects us to go further than just thinking of others as our equals.
-image: assets/images/anthonycrumley.jpg
+image: 
+  path: assets/images/anthonycrumley.jpg
+  height: 300
+  width: 300
 date:   2019-05-04
 ---
 > Let nothing be done through selfish ambition or conceit, but in lowliness of mind let each esteem others better than himself. Let each of you look out not only for his own interests, but also for the interests of others. [Philippians 2:3-4 NKJV]
