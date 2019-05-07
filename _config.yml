@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Anthony Crumley
+logo: assets/images/logo.png
 author: ""
 email: anthony.crumley@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
@@ -21,11 +22,17 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.anthonycrumley.com" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: UA-139201696-1
-minima:
-    social_links:
-      twitter: anthonycrumley
-      github: anthonycrumley
-      facebook: anthony.crumley
+twitter:
+  username: anthonycrumley
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/anthony.crumley
+social:
+  name: Anthony Crumley
+    links:
+      - https://twitter.com/anthonycrumley
+      - https://www.facebook.com/anthony.crumley
+      - https://github.com/anthonycrumley
 disqus:
   shortname: anthonycrumley
 show_excerpts: true
